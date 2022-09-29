@@ -11,6 +11,7 @@
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":3,},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},"order":4,},
     {"id":{"name":"anim_script","path":"scripts/anim_script/anim_script.yy",},"order":4,},
+    {"id":{"name":"scriptPrueba","path":"scripts/scriptPrueba/scriptPrueba.yy",},"order":10,},
     {"id":{"name":"obj_entity","path":"objects/obj_entity/obj_entity.yy",},"order":0,},
     {"id":{"name":"check_ground","path":"scripts/check_ground/check_ground.yy",},"order":3,},
     {"id":{"name":"check_jump","path":"scripts/check_jump/check_jump.yy",},"order":1,},
